@@ -6,3 +6,4 @@ Universal pilot for comunication with rc model
 
 
 ![Project breadboard](universal_pilot_photo1.jpg)
+![Project breadboard](universal_pilot_photo2.jpg)
